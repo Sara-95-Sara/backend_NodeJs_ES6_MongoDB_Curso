@@ -50,3 +50,7 @@ function saluda() {
 }
 
 saluda();
+
+'use strict';
+
+nombre = 'Luis';
