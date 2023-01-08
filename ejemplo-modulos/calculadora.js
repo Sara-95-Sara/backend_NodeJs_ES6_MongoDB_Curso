@@ -11,3 +11,8 @@ module.exports.suma = function(a, b) {
 module.exports.resta = function(a,b) {
     return a - b;
 };
+
+// segunda forma exports
+exports.multiplica = function(a, b) {
+    return a * b;
+};
